@@ -1,0 +1,5 @@
+﻿  fibonacciSpiral.cpp
+c:\users\rebecca\documents\c++ playground\fibonaccispiral\fibonaccispiral\fibonaccispiral.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\rebecca\documents\c++ playground\fibonaccispiral\fibonaccispiral\fibonaccispiral.cpp(106): warning C4305: '-=': truncation from 'double' to 'float'
+  fibonacciSpiral.vcxproj -> C:\Users\Rebecca\Documents\C++ playground\fibonacciSpiral\Debug\fibonacciSpiral.exe
+  fibonacciSpiral.vcxproj -> C:\Users\Rebecca\Documents\C++ playground\fibonacciSpiral\Debug\fibonacciSpiral.pdb (Partial PDB)
